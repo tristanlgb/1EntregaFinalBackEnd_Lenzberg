@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Bulbasaur",
+      "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+      "code": "POK001",
+      "price": 25,
+      "status": true,
+      "stock": 10,
+      "category": "Pokemon",
+      "thumbnails": [
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Charmander",
+      "description": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+      "code": "POK002",
+      "price": 30,
+      "status": true,
+      "stock": 15,
+      "category": "Pokemon",
+      "thumbnails": [
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Squirtle",
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "code": "POK003",
+      "price": 28,
+      "status": true,
+      "stock": 20,
+      "category": "Pokemon",
+      "thumbnails": [
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pikachu",
+      "description": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
+      "code": "POK004",
+      "price": 35,
+      "status": true,
+      "stock": 12,
+      "category": "Pokemon",
+      "thumbnails": [
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Eevee",
+      "description": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+      "code": "POK005",
+      "price": 40,
+      "status": true,
+      "stock": 18,
+      "category": "Pokemon",
+      "thumbnails": [
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Snorlax",
+      "description": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+      "code": "POK006",
+      "price": 60,
+      "status": true,
+      "stock": 8,
+      "category": "Pokemon",
+      "thumbnails": [
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Dragonite",
+      "description": "It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.",
+      "code": "POK007",
+      "price": 100,
+      "status": true,
+      "stock": 5,
+      "category": "Pokemon",
+      "thumbnails": [
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png"
+      ]
+    },
+  
